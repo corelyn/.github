@@ -6,4 +6,4 @@
 
 Corelyn is a AI wrapper sustained by currently 1 dev.
 
-Nothing here yet!
+If you want to check it out go to : [Corelyn AI](https://corelyn.github.io/)
